@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "Prueba de Programación 1",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Qué es un bucle en programación?",
+        "respuesta_correcta": "Una estructura de control que repite un bloque de código mientras una condición sea verdadera."
+      },
+      {
+        "id": 2,
+        "enunciado": "¿En qué lenguaje de programación se utiliza 'console.log()' para imprimir en la consola?",
+        "respuesta_correcta": "JavaScript"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Prueba de Programación 2",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Qué significa HTML en programación web?",
+        "respuesta_correcta": "Lenguaje de Marcado de Hipertexto"
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Qué es Git y para qué se utiliza en el desarrollo de software?",
+        "respuesta_correcta": "Git es un sistema de control de versiones utilizado para el seguimiento de cambios en el código fuente durante el desarrollo de software."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Prueba de Programación 3",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Cuál es el propósito principal de la declaración 'import' en Python?",
+        "respuesta_correcta": "Importar módulos o funciones desde otros archivos en el código."
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Qué es una API en el contexto de desarrollo web?",
+        "respuesta_correcta": "Interfaz de Programación de Aplicaciones, que permite la comunicación entre diferentes software."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Prueba de Programación 4",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Cómo se define una variable en lenguaje de programación?",
+        "respuesta_correcta": "Asignando un nombre a una ubicación de memoria y proporcionando un tipo de datos."
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Qué es la recursividad en programación?",
+        "respuesta_correcta": "Un concepto donde una función se llama a sí misma."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Prueba de Programación 5",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Qué es el patrón de diseño 'MVC'?",
+        "respuesta_correcta": "Modelo-Vista-Controlador, una arquitectura de software que separa la aplicación en tres componentes principales."
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Qué es el 'debugging'?",
+        "respuesta_correcta": "El proceso de encontrar y corregir errores en el código."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Prueba de Programación 6",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Qué es la programación orientada a objetos?",
+        "respuesta_correcta": "Un paradigma de programación que utiliza objetos para organizar y estructurar el código."
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Cuál es la diferencia entre 'let' y 'const' en JavaScript?",
+        "respuesta_correcta": "'let' permite reasignación, mientras que 'const' crea una variable de solo lectura."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Prueba de Programación 7",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Qué es una base de datos relacional?",
+        "respuesta_correcta": "Un tipo de base de datos que organiza la información en tablas relacionadas entre sí."
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Qué es un algoritmo de ordenamiento?",
+        "respuesta_correcta": "Un conjunto de instrucciones para organizar elementos en una secuencia específica."
+      },
+      {
+        "id": 3,
+        "enunciado": "¿Qué es un algoritmo de búsqueda?",
+        "respuesta_correcta": "Un conjunto de instrucciones para encontrar un elemento específico en una colección de datos."
+      }
+    ]
+  }
+]
